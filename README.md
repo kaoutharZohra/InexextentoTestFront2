@@ -1,8 +1,8 @@
 ## Front End Test part 2 
 This is a simple react application that allows the user to introduce a "user name" in an input than launch a research to fetch his github repo.
 ### Instructions:
-- clone 
-- cd 
+- clone https://github.com/kaoutharZohra/InexextentoTestFront2.git
+- cd InexextentoTestFront2
 - npm install
 - npm start 
 
